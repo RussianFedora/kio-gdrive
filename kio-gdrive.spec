@@ -3,7 +3,7 @@ Version:        1.0.4
 Release:        1%{?dist}
 Summary:        KIO Google Drive
 
-License:        GPLv3+
+License:        GPLv2+
 URL:            https://phabricator.kde.org/source/kio-gdrive/
 Source0:        http://download.kde.org/stable/kio-gdrive/%{version}/src/%{name}-%{version}.tar.xz
 
